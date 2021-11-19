@@ -25,9 +25,7 @@ cat = """
                                                   ; '   : :`-:     _.`* ;
                                                .*' /  .*' ; .*`- +'  `*'
                                                `*-*   `*-*  `*-*'
-====== Please, consider buying me an coffe :) =========================
-==== 0xbd06182D8360FB7AC1B05e871e56c76372510dDf =======================
-==== https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ =====
+====== CRIADO POR R7TRADING ===========================================
 =======================================================================
 
 >>---> Press ctrl + c to kill the bot.
